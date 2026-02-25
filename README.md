@@ -1,2 +1,2 @@
 # analise_modelagem_sistemas
-cst analise de sistemas ( anhanguera prof nicolas)
+CTS Analise e Desenvolvimento de Sistemas ( Anhanguera Prof Nicolas)
